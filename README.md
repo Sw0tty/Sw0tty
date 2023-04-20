@@ -1,5 +1,7 @@
-### Hi there 👋
-- 🌱 I’m currently learning 'Python'
+<h1 align="center">Hi there, I'm Kirill</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">📫 I’m currently learning 'Python'</h3>
+
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
