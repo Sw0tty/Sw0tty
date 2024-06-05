@@ -5,7 +5,7 @@
 <h6 align="center">Knowledge stack:</h6>
 <h6 align="center">- Django;</h6>
 <h6 align="center">- Parsing methodologies;</h6>
-<h6 align="center">- Postgress, Express SQL DB projecting;</h6>
+<h6 align="center">- Postgre, Express SQL DB projecting;</h6>
 <h6 align="center">- Development of desktop applications on C#, Python.</h6>
 
 <!-- <picture>
