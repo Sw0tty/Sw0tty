@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kirill</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">:white_check_mark: I am a certified backend developer at 'Python'</h3>
-<h3 align="center">:zap: I’m currently learning 'C#'</h3>
+<h3 align="center">:zap: I’m currently learning 'C#' | React</h3>
 <h6 align="center">Knowledge stack:</h6>
 <h6 align="center">- Django, Entity;</h6>
 <h6 align="center">- Parsing methodologies;</h6>
