@@ -1,12 +1,13 @@
-<h1 align="center">Hi there, I'm Kirill</a> 
+<h1 align="center">Hi there, I'm Kirill and i'm fullstack developer</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">:white_check_mark: I am a certified backend developer at 'Python'</h3>
-<h3 align="center">:zap: I’m currently learning 'C#' | React</h3>
+<h3 align="center">:zap: I’m currently learning of creating npm libs</h3>
 <h6 align="center">Knowledge stack:</h6>
-<h6 align="center">- Django, Entity;</h6>
+<h6 align="center">- Django, EntityFramework, React;</h6>
 <h6 align="center">- Parsing methodologies;</h6>
-<h6 align="center">- Postgre, Express SQL DB projecting;</h6>
-<h6 align="center">- Development of desktop applications on C#, Python.</h6>
+<h6 align="center">- PostgreSQL, MsSQL DB projecting;</h6>
+<h6 align="center">- Development of desktop applications on C#, Python;</h6>
+<h6 align="center">- Development of Telegram bots Python.</h6>
 
 <!--<h1><a href="https://github.com/Sw0tty/DBObjectsViewer">Project</a></h1> -->
 <!-- <picture>
