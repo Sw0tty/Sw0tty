@@ -3,16 +3,16 @@
 <h3 align="center">:white_check_mark: I am a certified backend developer at 'Python'</h3>
 <h3 align="center">:zap: I’m currently learning of creating npm libs</h3>
 <h6 align="center">Knowledge stack:</h6>
-<h6 align="center">- Django, EntityFramework;</h6>
-
 <h6 align="center">
   
-[![React][React.js]][React-url][![Angular][Angular.io]][Angular-url]
+[![React][React.js]][React-url][![Angular][Angular.io]][Angular-url]![Electron][Electron-url]![Django][Django-url]![EntityFramework][EntityFramework-url]
+
 </h6>
 <h6 align="center">- Parsing methodologies;</h6>
 <h6 align="center">- PostgreSQL, MsSQL DB projecting;</h6>
 <h6 align="center">- Development of desktop applications on C#, Python;</h6>
 <h6 align="center">- Development of Telegram bots Python.</h6>
+
 
 <!--<h1><a href="https://github.com/Sw0tty/DBObjectsViewer">Project</a></h1> -->
 <!-- <picture>
@@ -66,3 +66,6 @@ Here are some ideas to get you started:
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Electron-url]: https://img.shields.io/badge/Electron-424b61?style=for-the-badge&logo=electron&logoColor=a0ebf9
+[Django-url]: https://img.shields.io/badge/Django-0a2e20?style=for-the-badge&logo=django&logoColor=ffffff
+[EntityFramework-url]: https://img.shields.io/badge/entityframework-66217b?style=for-the-badge&logo=sharp&logoColor=ffffff
