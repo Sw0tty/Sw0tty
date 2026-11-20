@@ -100,7 +100,7 @@
 [CSS3-url]: https://img.shields.io/badge/CSS3-5686F7?style=for-the-badge&logo=CSS&logoColor=FFFFFF
 [GIT-url]: https://img.shields.io/badge/git-EFEFEF?style=for-the-badge&logo=git&logoColor=F15C3F
 [Docker-url]: https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=Docker&logoColor=2496ED
-[Python-url]: https://img.shields.io/badge/Python-FBF8EF?style=for-the-badge&logo=Python&logoColor=F1BE26
+[Python-url]: https://img.shields.io/badge/Python-4486BC?style=for-the-badge&logo=Python&logoColor=F1BE26
 [CSharp-url]: https://img.shields.io/badge/Sharp-A67FDE?style=for-the-badge&logo=sharp&logoColor=FFFFFF
 [PostgreSQL-url]: https://img.shields.io/badge/PostgreSQL-3D6A99?style=for-the-badge&logo=postgresql&logoColor=FFFFFF
 [MsSQL-url]: https://img.shields.io/badge/MsSQL-FFFFFF?style=for-the-badge&logo=MsSQL&logoColor=FFFFFF
